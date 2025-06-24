@@ -9,7 +9,7 @@
 - ⚙️ I love working with **React, Node.js, MongoDB, Firebase**
 - 🤖 Member of **DD Robocon 2024** team – exploring **ROS** and robotic systems
 - 🌐 Deployed projects on **Vercel** and **GitHub Pages**
-- 📚 Learning Algorithms, Aptitude (Calendar, Age, Math puzzles), and C Programming
+- 🏆 Selected as a **Finalist in IEEE YESIST12** – showcasing tech innovation
 
 ---
 
@@ -29,7 +29,7 @@
 
 ---
 
-### 🌍 Let's Connect!
-- 🌐 Portfolio coming soon
-- 📫 Reach me at: `gokul.your-email@example.com` *(optional)*
+### 🌍 Connect with Me
+- 📫 Email: `gokuls962005@gmail.com`
+- 🔗 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/gokuls07/)
 
