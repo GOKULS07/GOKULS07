@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hey there, I'm Gokul</h1>
 
 <p align="center">
-🎓 Engineering Student | 💻 Full-Stack Developer | 🤖 Roboticist | 🚀 MERN Stack Enthusiast  
+🎓 Engineering Student | 💻 Full-Stack Developer | 🚀 MERN Stack Enthusiast  
 🏆 IEEE YESIST12 Finalist | 🤝 Team Player | 🌱 Lifelong Learner
 </p>
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=500&lines=Web+Developer;Robotics+Explorer;IEEE+YESIST12+Finalist;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=600&lines=Web+Developer;MERN+Stack+Engineer;Robotics+Explorer;IEEE+YESIST12+Finalist;DD+Robocon+2024+Team+Member;Open+Source+Contributor;C+%7C+C%2B%2B+%7C+JavaScript+Programmer;Always+learning+new+things;Building+Tech+for+Social+Impact" alt="Typing SVG" />
 </p>
 
 ---
