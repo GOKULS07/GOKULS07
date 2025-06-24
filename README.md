@@ -87,7 +87,7 @@
 
 ## 🌍 Let's Connect!
 
-- 📄 [Download My CV](https://github.com/GOKULS07/GOKULS07/raw/main/Gokul_CV.pdf)
+- 📄 [Download My CV](https://github.com/GOKULS07/GOKULS07/blob/057ce0b0596326e07a471727007c26a572bb7a8f/gokul.cse.CV.pdf)
 - 📫 Email: [gokuls962005@gmail.com](mailto:gokuls962005@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/gokuls07](https://www.linkedin.com/in/gokuls07/)
 - 🧑‍💼 Portfolio: [Profile](https://portfolio-gokuls07s-projects.vercel.app/)
