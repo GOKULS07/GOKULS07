@@ -53,8 +53,10 @@
 
 ## 📊 GitHub Stats
 
-![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GOKULS07&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GOKULS07&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GOKULS07&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKULS07&layout=compact&theme=radical" height="180px"/>
+</p>
 
 ---
 
@@ -76,13 +78,15 @@
 
 ---
 
-## 🌍 Let's Connect
+## 🌍 Let's Connect!
 
-- 📫 Email: gokuls962005@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/gokuls07](https://www.linkedin.com/in/gokuls07/)  
-- 📂 Portfolio: Coming soon!
-
+- 📫 Email: [gokuls962005@gmail.com](mailto:gokuls962005@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/gokuls07](https://www.linkedin.com/in/gokuls07/)
+- 🧑‍💼 Portfolio: *(coming soon – let me know if you want help building it!)*
+- 
 ---
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=500&lines=Web+Developer;Robotics+Explorer;IEEE+YESIST12+Finalist;Always+learning+new+things" alt="Typing SVG" />
+</p>
 _Thanks for stopping by! Have a great day ✨_
 
