@@ -42,8 +42,8 @@
 
 **Languages:**
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 
 ---
 
