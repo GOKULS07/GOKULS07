@@ -35,6 +35,7 @@
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 
 **Database & Tools:**
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -42,8 +43,6 @@
 
 **Languages:**
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 
 ---
 
@@ -67,6 +66,7 @@
 
 ## 📚 Certifications & Learning
 
+- ✅ SQL – Hacker Rank
 - ✅ JavaScript & React – Udemy
 - ✅ MongoDB Basics – MongoDB University
 - 🎓 Data Structures & Algorithms – Ongoing
@@ -87,8 +87,8 @@
 
 - 📫 Email: [gokuls962005@gmail.com](mailto:gokuls962005@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/gokuls07](https://www.linkedin.com/in/gokuls07/)
-- 🧑‍💼 Portfolio: *(coming soon – let me know if you want help building it!)*
-- 
+- 🧑‍💼 Portfolio: [Profile](https://portfolio-gokuls07s-projects.vercel.app/)
+
 ---
 
 _Thanks for stopping by! Have a great day ✨_
