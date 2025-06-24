@@ -1,7 +1,9 @@
-# 👋 Hello, I'm Gokul!
+<h1 align="center">👋 Hey there, I'm Gokul</h1>
 
+<p align="center">
 🎓 Engineering Student | 💻 Full-Stack Developer | 🤖 Roboticist | 🚀 MERN Stack Enthusiast  
 🏆 IEEE YESIST12 Finalist | 🤝 Team Player | 🌱 Lifelong Learner
+</p>
 
 ---
 <p align="center">
