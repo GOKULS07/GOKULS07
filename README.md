@@ -51,7 +51,8 @@
 ## 🏆 Achievements
 
 - 🏅 **IEEE YESIST12 Finalist** – Recognized for a tech-based social impact solution  
-- 🤖 Contributor to **DD Robocon 2024**, India’s top robotics competition  
+- 🤖 Contributor to **DD Robocon 2024**, India’s top robotics competition
+- 🔧 **BitHack 2023 Hardware Edition Finalist** – Designed an innovative hardware-software integrated solution in a 24-hour hackathon  
 - 🎯 Developed a full-fledged **Grievance Management Portal** (MERN stack + Firebase)  
 - 📊 Built a **Finance Dashboard** with subscription tracking and UI features
 
