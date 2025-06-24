@@ -20,7 +20,7 @@
 - 🤖 Part of **DD Robocon 2024 Team**, working on autonomous bots using **ROS**
 - 🌐 Deploying real-world projects on **Vercel** and **GitHub Pages**
 - 🏅 **IEEE YESIST12 Finalist** – solving real-world challenges with innovation
-- ✍️ Currently exploring **DevOps**, **TypeScript**, and **system design**
+- ✍️ Currently exploring **DevOps**, **TypeScript**, and **Networking**
 
 ---
 
@@ -64,6 +64,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GOKULS07&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKULS07&layout=compact&theme=radical" height="180px"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GOKULS07&theme=radical&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GOKULS07&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
 
 ---
 
