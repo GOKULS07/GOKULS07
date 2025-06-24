@@ -4,6 +4,10 @@
 🏆 IEEE YESIST12 Finalist | 🤝 Team Player | 🌱 Lifelong Learner
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=500&lines=Web+Developer;Robotics+Explorer;IEEE+YESIST12+Finalist;Always+learning+new+things" alt="Typing SVG" />
+</p>
+---
 
 ## 💡 About Me
 
@@ -85,8 +89,6 @@
 - 🧑‍💼 Portfolio: *(coming soon – let me know if you want help building it!)*
 - 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=500&lines=Web+Developer;Robotics+Explorer;IEEE+YESIST12+Finalist;Always+learning+new+things" alt="Typing SVG" />
-</p>
+
 _Thanks for stopping by! Have a great day ✨_
 
