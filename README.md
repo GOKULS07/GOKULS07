@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=500&lines=Web+Developer;Robotics+Explorer;IEEE+YESIST12+Finalist;Always+learning+new+things" alt="Typing SVG" />
 </p>
+
 ---
 
 ## 💡 About Me
